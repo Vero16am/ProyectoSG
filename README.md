@@ -22,8 +22,7 @@ El proyecto comprende la planeación, organización y ejecución simulada de un 
 - [Abrir listado de Issues](https://github.com/Vero16am/ProyectoSG/issues).
 - [Plan operativo y dependencias](03_seguimiento/plan_operativo.md).
 - [Protocolo de estados, prioridades, vistas y seguimiento](03_seguimiento/protocolo_gestion.md).
-- [Configuración práctica del GitHub Project](03_seguimiento/configuracion_project.md).
-- [Corte inicial de control del 03/11/2026](03_seguimiento/corte_inicial_031126.md).
+- [Corte inicial de control](03_seguimiento/corte_inicial_031126.md).
 - [Matriz inicial de riesgos](03_seguimiento/matriz_riesgos.md).
 - [Registro de decisiones](03_seguimiento/Decisiones.md).
 - [Índice de evidencias y criterios de verificación](02_evidencias/indice_evidencias.md).
