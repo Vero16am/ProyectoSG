@@ -15,7 +15,6 @@ El repositorio dispone de README, carpeta de formulación (ficha del proyecto, P
 | Hallazgo | Efecto sobre la gestión | Acción |
 | --- | --- | --- |
 | [ACT-01](https://github.com/Vero16am/ProyectoSG/issues/5) está pendiente de elaboración y todas las demás actividades dependen de él directa o indirectamente | Ninguna actividad puede avanzar con una línea base validada | Priorizar el documento de alcance y su revisión |
-| Los Issues no están asociados a ningún GitHub Project | No hay tablero, estados ni cronograma visibles | Crear el Project según `configuracion_project.md` |
 | No hay fechas calendario ni duración del piloto definidas | No se puede calcular retraso real | Definirlas con el equipo en el Project |
 | Los insumos cargados en `02_evidencias` (fuentes DANE, base simulada, análisis descriptivo) son de formulación, no productos de las actividades | Riesgo de confundir insumos con evidencia de cierre | Distinguirlos en `indice_evidencias.md` |
 | El anexo DANE (`anex-GEIHMLJ-may-jul2026`) está duplicado en `02_evidencias` y `03_seguimiento` | Versiones dispersas del mismo archivo | Conservar una sola copia en `02_evidencias` |
