@@ -1,5 +1,5 @@
 # Ruta Joven San Gabriel — Orientación para la Empleabilidad y el Emprendimiento
-[Proyecto](https://github.com/Vero16am/ProyectoSG)
+[Proyecto](https://github.com/Vero16am/ProyectoSG/projects)
 
 ## Propósito
 
